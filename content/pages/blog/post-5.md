@@ -45,6 +45,8 @@ seo:
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
+  robots:
+    - all
 layout: post
 ---
 
